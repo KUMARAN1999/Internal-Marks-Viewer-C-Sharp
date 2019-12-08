@@ -1,0 +1,15 @@
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\bin\Debug\Student_Mark_List.exe
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\bin\Debug\Student_Mark_List.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.Form1.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.mark_list.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.staff_login.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.staff_register.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.Student_or_Staff.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.student_login.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.student_register.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.Update_mark.resources
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.exe
+c:\users\personal\documents\visual studio 2012\Projects\Student_Mark_List\Student_Mark_List\obj\Debug\Student_Mark_List.pdb
